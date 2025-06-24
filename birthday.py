@@ -86,7 +86,7 @@ st.image("amish.jpg", caption="🎂 Little Birthday Star!", use_column_width=Tru
 if st.button("🎁 Open Gift!"):
     st.success("🎉 Surprise! Wishing you a life full of love and laughter, Amish! 💙")
     st.balloons()
-    st.image("https://i.imgur.com/WnTzX9u.png", caption="Here's a cute gift for you!", use_column_width=True)
+    st.image("amish.jpg", caption="Here's a cute gift for you!", use_column_width=True)
 
 # ------------------ 🎈 FLOATING BALLOONS ANIMATION ------------------ #
 balloon_html = """
